@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Bashiru Issahaku</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer || Java Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedbashiruissahaku&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedbashiruissahaku" /> </p>
 
