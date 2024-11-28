@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Bashiru Issahaku</h1>
-<h3 align="center">Software Engineer| java | DSA | Spring Boot | Low-Level Design | 
-Microservices Enthusiast | Tech-Adaptable 
+<h3 align="center">Software Engineer | Java & Spring Boot | DSA | Microservices | REST APIs | MySQL | LLD | Tech-Adaptable
  </h3>
 
 <p align="left"> 
@@ -13,8 +12,8 @@ Microservices Enthusiast | Tech-Adaptable
   </a> 
 </p>
 
-- 🔭 I’m currently working on [User Registry Platform](https://github.com/MohammedBashiruIssahaku/User-Registery-Platform.git)
-- 🌱 I’m currently learning **System Design**
+- 🔭 I’m currently working on [Payment Gateway System](https://github.com/MohammedBashiruIssahaku/Payment-Gateway-System.git)
+- 🌱 I’m currently learning **Microservices**
 - 💬 Ask me about **Software Engineering**
 - 📫 How to reach me **mohammedbashiruissahaku0@gmail.com**
 
