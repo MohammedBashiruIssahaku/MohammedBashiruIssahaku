@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Bashiru Issahaku</h1>
-<h3 align="center">Software Engineer | Java & Spring Boot | DSA | Microservices | REST APIs | MySQL | LLD | Tech-Adaptable</h3>
+<h3 align="center">Software Engineer | Java & Spring Boot | Microservices & REST APIs | MySQL | LLD | Tech-Adaptable</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mohammedbashiruissahaku&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedbashiruissahaku" /> 
