@@ -21,7 +21,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
-  Java is my primary programming language, and I specialize in backend development using Java frameworks such as Spring Boot.
+  Java is my primary programming language, and I specialize in backend development using Java frameworks such as Spring Boot and Hibernate.
 </p>
 
 <h3 align="left">Frameworks:</h3>
