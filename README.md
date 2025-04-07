@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on Microservice Core Banking System 
+- 🔭 I’m currently working  
 - 🌱 I’m currently learning **Microservices**  
 - 💬 Ask me about **Software Engineering**  
 - 📫 How to reach me **BashiruIssahaku09@gmail.com**
